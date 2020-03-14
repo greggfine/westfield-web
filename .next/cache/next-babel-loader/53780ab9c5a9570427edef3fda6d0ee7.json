@@ -1,1 +1,0 @@
-{"ast":null,"code":"var __jsx = React.createElement;\nimport React from \"react\";\nimport Link from \"next/link\";\n\nfunction Index() {\n  return __jsx(\"div\", null, __jsx(\"h1\", null, \"Index!!!!\"));\n}\n\nexport default Index;\n/* \nNOTES: Link provides an onClick function around whatever it's wrapping\n*/","map":null,"metadata":{},"sourceType":"module"}
